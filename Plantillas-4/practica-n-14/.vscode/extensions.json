@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "ms-ceintl.vscode-language-pack-es",
+        "pkief.material-icon-theme",
+        "esbenp.prettier-vscode",
+        "kisstkondoros.vscode-gutter-preview"
+    ]
+}

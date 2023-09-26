@@ -1,0 +1,6 @@
+colores 
+#f6f6f6 => gris bg principal
+#a2a9af => gris oscuro bg card
+#f1dbda => rosa pastel btn1
+#d1dab9 => verde pastel btn2
+#dc91dc => lila color principal
